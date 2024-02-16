@@ -9,6 +9,39 @@
 
   <ItemGroup>
     <None Include=".github\workflows\main.yml" />
+    <None Include="wwwroot\assets\icon.png" />
+    <None Include="wwwroot\assets\icons\android\android-launchericon-144-144.png" />
+    <None Include="wwwroot\assets\icons\android\android-launchericon-192-192.png" />
+    <None Include="wwwroot\assets\icons\android\android-launchericon-48-48.png" />
+    <None Include="wwwroot\assets\icons\android\android-launchericon-512-512.png" />
+    <None Include="wwwroot\assets\icons\android\android-launchericon-72-72.png" />
+    <None Include="wwwroot\assets\icons\android\android-launchericon-96-96.png" />
+    <None Include="wwwroot\assets\icons\ios\100.png" />
+    <None Include="wwwroot\assets\icons\ios\1024.png" />
+    <None Include="wwwroot\assets\icons\ios\114.png" />
+    <None Include="wwwroot\assets\icons\ios\120.png" />
+    <None Include="wwwroot\assets\icons\ios\128.png" />
+    <None Include="wwwroot\assets\icons\ios\144.png" />
+    <None Include="wwwroot\assets\icons\ios\152.png" />
+    <None Include="wwwroot\assets\icons\ios\16.png" />
+    <None Include="wwwroot\assets\icons\ios\167.png" />
+    <None Include="wwwroot\assets\icons\ios\180.png" />
+    <None Include="wwwroot\assets\icons\ios\192.png" />
+    <None Include="wwwroot\assets\icons\ios\20.png" />
+    <None Include="wwwroot\assets\icons\ios\256.png" />
+    <None Include="wwwroot\assets\icons\ios\29.png" />
+    <None Include="wwwroot\assets\icons\ios\32.png" />
+    <None Include="wwwroot\assets\icons\ios\40.png" />
+    <None Include="wwwroot\assets\icons\ios\50.png" />
+    <None Include="wwwroot\assets\icons\ios\512.png" />
+    <None Include="wwwroot\assets\icons\ios\57.png" />
+    <None Include="wwwroot\assets\icons\ios\58.png" />
+    <None Include="wwwroot\assets\icons\ios\60.png" />
+    <None Include="wwwroot\assets\icons\ios\64.png" />
+    <None Include="wwwroot\assets\icons\ios\72.png" />
+    <None Include="wwwroot\assets\icons\ios\76.png" />
+    <None Include="wwwroot\assets\icons\ios\80.png" />
+    <None Include="wwwroot\assets\icons\ios\87.png" />
   </ItemGroup>
 
   <ItemGroup>
