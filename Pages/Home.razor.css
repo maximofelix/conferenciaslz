@@ -603,6 +603,13 @@ input[type='checkbox'] {
         border: 1px solid #cfd7de;
     }
 
+        .basic-2 .text-box .text-box-center {
+            margin-bottom: 3rem;
+            padding: 3.5rem 1rem 2.125rem 1rem;
+            border: 1px solid #cfd7de;
+            text-align: center;
+        }
+
     .basic-2 .fas,
     .basic-2 .far {
         margin-bottom: 1.75rem;
